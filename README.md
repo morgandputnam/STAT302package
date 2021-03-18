@@ -24,3 +24,9 @@ library(STAT302package)
 ## basic example code
 ```
 
+## Use
+
+``` r
+# Use this to view the vignette in the STAT302package HTML help
+help(package = "STAT302Package", help_type = "html")
+```
