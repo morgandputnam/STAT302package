@@ -1,0 +1,14 @@
+Package: STAT302package
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Morgan",
+           family = "Putnam",
+           role = c("aut", "cre"),
+           email = "mputna@cs.washington.edu")
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
